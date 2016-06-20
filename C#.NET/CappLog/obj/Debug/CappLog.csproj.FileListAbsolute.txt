@@ -1,0 +1,10 @@
+D:\Work\TestApplication\Binaries\CappLog.dll
+D:\Work\TestApplication\Binaries\CappLog.pdb
+D:\Work\TestApplication\CappLog\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\TestApplication\CappLog\obj\Debug\CappLog.dll
+D:\Work\TestApplication\CappLog\obj\Debug\CappLog.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Binaries\CappLog.dll
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Binaries\CappLog.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\CappLog\obj\Debug\CappLog.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\CappLog\obj\Debug\CappLog.dll
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\CappLog\obj\Debug\CappLog.pdb

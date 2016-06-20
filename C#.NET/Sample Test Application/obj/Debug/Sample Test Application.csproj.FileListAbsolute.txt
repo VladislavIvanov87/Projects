@@ -1,0 +1,15 @@
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\bin\Debug\Sample Test Application.exe
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\bin\Debug\Sample Test Application.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\bin\Debug\CappLog.dll
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\bin\Debug\cAppSql.dll
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\bin\Debug\CappLog.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\bin\Debug\cAppSql.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\obj\Debug\Sample Test Application.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\obj\Debug\Form1.resources
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\obj\Debug\Sample_Test_Application.Properties.Resources.resources
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\obj\Debug\Sample Test Application.csproj.GenerateResource.Cache
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\obj\Debug\Sample Test Application.exe
+C:\Users\Vlado\Desktop\SIPartTwo\net\C#.NET\Sample Test Application\obj\Debug\Sample Test Application.pdb
+C:\Users\Vlado\Desktop\C#.NET\Sample Test Application\obj\Debug\Sample Test Application.exe
+C:\Users\Vlado\Desktop\C#.NET\Sample Test Application\obj\Debug\Sample Test Application.pdb
