@@ -1,0 +1,6 @@
+c:\users\vlado\documents\visual studio 2015\Projects3\PhoneBookProject\PhoneBookProject\bin\Debug\PhoneBookProject.exe.config
+c:\users\vlado\documents\visual studio 2015\Projects3\PhoneBookProject\PhoneBookProject\obj\Debug\PhoneBookProject.csprojResolveAssemblyReference.cache
+c:\users\vlado\documents\visual studio 2015\Projects3\PhoneBookProject\PhoneBookProject\bin\Debug\PhoneBookProject.exe
+c:\users\vlado\documents\visual studio 2015\Projects3\PhoneBookProject\PhoneBookProject\bin\Debug\PhoneBookProject.pdb
+c:\users\vlado\documents\visual studio 2015\Projects3\PhoneBookProject\PhoneBookProject\obj\Debug\PhoneBookProject.exe
+c:\users\vlado\documents\visual studio 2015\Projects3\PhoneBookProject\PhoneBookProject\obj\Debug\PhoneBookProject.pdb
